@@ -1,5 +1,7 @@
 # sorting_algorithms
 
+<img src="assets/plate.gif" alt="Plate 06, sorting_algorithms: bars are sorted by quick sort one swap at a time." width="100%">
+
 Eleven sorting algorithms in C, each printing the array after every step so the algorithm can be watched working.
 
 | Algorithm | File | Sorts |
